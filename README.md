@@ -19,3 +19,5 @@ npm run dev
 - Background: static architectural grid-paper, no constant motion
 - Animation style: precise clip-path wipes, numbered sections
 - Cursor interaction: 3D parallax tilt on every card
+
+
